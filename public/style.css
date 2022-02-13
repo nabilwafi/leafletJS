@@ -1,0 +1,15 @@
+#map {
+    height: 100vh;
+}
+
+.foto-table {
+  width: 150px;
+}
+
+.foto-marker {
+  width: 300px;
+}
+
+.card {
+  text-align: center;
+}
